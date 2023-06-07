@@ -17,6 +17,16 @@ $urunAdi ="Iphone 15";
 
 echo $urunAdi." ".gettype($urunAdi);
 
+echo "<br>";
+
+
+$fiyat = 40000;
+
+echo $fiyat." ".gettype($fiyat);
+
+echo "<br>";
+
+
 
 
 ?>
