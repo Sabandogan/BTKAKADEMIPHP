@@ -14,8 +14,8 @@
 */
 
 $urunAdi ="Iphone 15";
-echo gettype($urunAdi);
-echo $urunAdi;
+
+echo $urunAdi." ".gettype($urunAdi);
 
 
 
