@@ -27,6 +27,25 @@ echo $fiyat." ".gettype($fiyat);
 echo "<br>";
 
 
+$kdvOrani = 0.18;
+
+echo $kdvOrani." ".gettype($kdvOrani);
+
+echo "<br>";
+
+
+$kdvOrani = 0.18;
+
+echo $kdvOrani." ".gettype($kdvOrani);
+
+echo "<br>";
+
+$a = (int)20.5;
+echo gettype($a);
+echo $a;
+
+
+
 
 
 ?>
